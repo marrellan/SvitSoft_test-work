@@ -1,0 +1,55 @@
+@font-face {
+    font-family: "Edwardian-Script-ITC-Regular";
+    src: url("../font/Edwardian-Script-ITC-Regular.eot");
+    src: url("../font/Edwardian-Script-ITC-Regular.eot?#iefix") format("embedded-opentype"),
+    url("../font/Edwardian-Script-ITC-Regular.woff") format("woff"),
+    url("../font/Edwardian-Script-ITC-Regular.ttf") format("truetype"),
+    url("../font/Edwardian-Script-ITC-Regular.svg#Edwardian-Script-ITC-Regular") format("svg"),
+    url("../font/Edwardian-Script-ITC-Regular.otf") format("opentype");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Futura-Lt-BT-Light";
+    src: url("../font/Futura-Lt-BT-Light.eot");
+    src: url("../font/Futura-Lt-BT-Light.eot?#iefix") format("embedded-opentype"),
+    url("../font/Futura-Lt-BT-Light.woff") format("woff"),
+    url("../font/Futura-Lt-BT-Light.ttf") format("truetype"),
+    url("../font/Futura-Lt-BT-Light.svg#Futura-Lt-BT-Light") format("svg"),
+    url("../font/Futura-Lt-BT-Light.otf") format("opentype");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Futura-Md-BT-Medium";
+    src: url("../font/Futura-Md-BT-Medium.eot");
+    src: url("../font/Futura-Md-BT-Medium.eot?#iefix") format("embedded-opentype"),
+    url("../font/Futura-Md-BT-Medium.woff") format("woff"),
+    url("../font/Futura-Md-BT-Medium.ttf") format("truetype"),
+    url("../font/Futura-Md-BT-Medium.svg#Futura-Md-BT-Medium") format("svg"),
+    url("../font/Futura-Md-BT-Medium.otf") format("opentype");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Lucida-Grande-Bold";
+    src: url("../font/Lucida-Grande-Bold.eot");
+    src: url("../font/Lucida-Grande-Bold.eot?#iefix") format("embedded-opentype"),
+    url("../font/Lucida-Grande-Bold.woff") format("woff"),
+    url("../font/Lucida-Grande-Bold.ttf") format("truetype"),
+    url("../font/Lucida-Grande-Bold.svg#Lucida-Grande-Bold") format("svg"),
+    url("../font/Lucida-Grande-Bold.otf") format("opentype");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Lucida-Grande-Regular";
+    src: url("../font/Lucida-Grande-Regular.eot");
+    src: url("../font/Lucida-Grande-Regular.eot?#iefix") format("embedded-opentype"),
+    url("../font/Lucida-Grande-Regular.woff") format("woff"),
+    url("../font/Lucida-Grande-Regular.ttf") format("truetype"),
+    url("../font/Lucida-Grande-Regular.svg#Lucida-Grande-Regular") format("svg"),
+    url("../font/Lucida-Grande-Regular.otf") format("opentype");
+    font-weight: normal;
+    font-style: normal;
+}
